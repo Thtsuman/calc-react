@@ -6,6 +6,12 @@
     width: 100%;
 }
 
+@media(max-width: 420px) {
+    .App {
+        height: 80vh;
+    }
+}
+
 .calc-wrapper {
     width: 400px;
     height: 500px;
